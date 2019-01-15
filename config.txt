@@ -3,4 +3,4 @@ prefix=!
 game=LoydMusic
 stayinchannel=true
 songinstatus=false
-token=NTMzOTQ3MTcyMjUzODU5ODc4.Dxyc5g.UiXaPntY8e3KwrNM-QotUHDU7w4
+token=NTM0Nzk0NTAxNDg3ODUzNTg4.Dx-yAg.uBVDpibjbXYEatgX0YHYVYN-Fb4
